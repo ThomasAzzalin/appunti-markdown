@@ -1,0 +1,2 @@
+Opera scritta da [[Diderot]], parla dell'approdo delle navi francesi a Thaiti, ma cio' viene raccontato dal punto di vista di un uomo nativo dell'isola.
+Esso critiva fortemente gli stranieri, gli oggetti e le usanze che essi portano, perche' sa che esse porteranno alla distruzione della sua societa'.

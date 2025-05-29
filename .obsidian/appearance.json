@@ -1,0 +1,10 @@
+{
+  "accentColor": "#00a6ff",
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "pupi-images"
+  ],
+  "theme": "obsidian",
+  "nativeMenus": false
+}

@@ -77,7 +77,7 @@ Nella tabella *stg__partner_jobs* mancano le colonne:
 - CustomerActualGrossPrice
 - C24ActualNetRevenue
 - CustomerActualGrossPrice
-E ho anche notato che la colonna *CustomerPrice* sempre nella tabella *stg__partner_jobs* e' di tipo text. Se lo modifichi da db posso evitare di fare il casting direttamente nella query e questo velocizzerebbe un pochino il processo.
+E ho anche notato che la colonna *CustomerPrice* sempre nella tabella *[stg__partner_job]()s* e' di tipo text. Se lo modifichi da db posso evitare di fare il casting direttamente nella query e questo velocizzerebbe un pochino il processo.
 
 ### Traffic Analytics
 [old](https://metabase.charlie24.com/dashboard/32-traffic-analytics?all_options=past365days&country=)
@@ -124,6 +124,7 @@ Manca tutta la tabella corrispondente a *dbo.AnalyticsSessions*
 Manca la colonna *SessionId* nella tabella *stg__assistance_requests*.
 ## Post work 
 
+## Time Track
 9.05.2025 90min
 10.05.2025 30min
 11.05.2025 30min

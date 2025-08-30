@@ -3,14 +3,14 @@
 #sql 
 #Charlie
 
-## Informazioni
+## Details
 *Date start task:* 29.04.2025
 *Death line:* 12.05.2025
 *Actual date end task:* 02.05.2025
 *Estimated total hours:* ??
 *Actual total hours:* 2.5
 
-## Analisi
+## Goal
 Devo ricreare una dashboard modificando tutte le query, migrandole dallo schema *Dbo* allo schema *Analytics Staging* (STG).
 
 ## Suddivisione dei compiti

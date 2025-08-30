@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "742e6842429cd3b9",
+        "id": "8ee3ff27439ca07a",
         "type": "tabs",
         "children": [
           {
-            "id": "8df5070688f390b4",
+            "id": "86559b89a34ada35",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "700 ENGINE/cars/002 - Appunti funzionamento auto/Drawing 2025-08-26 02.00.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-26 02.00.05.excalidraw"
+            }
+          },
+          {
+            "id": "eff1a0ff9a2b3905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 work/Etiql/110 - Miglioramenti e Nuovi Filtri per la Piattaforma Etiql.md",
-                "mode": "source",
-                "source": false
+                "file": "400 WORK/milhos.tech/valpicotta/118 - Mappatura e prototipo mobilità turistica Lago Maggiore.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "110 - Miglioramenti e Nuovi Filtri per la Piattaforma Etiql"
+              "title": "118 - Mappatura e prototipo mobilità turistica Lago Maggiore"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,28 +84,24 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Segnalibri"
+              "title": "Bookmarks"
             }
           },
           {
             "id": "783cef3e001f00b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "500 Youtube/000 - IT/001 - Salvatore Sanfilippo - CPU, bus, memoria e puntatori.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "001 - Salvatore Sanfilippo - CPU, bus, memoria e puntatori"
+              "title": "New tab"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 318.5
   },
   "right": {
     "id": "2a39c11cb150954b",
@@ -108,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/tpsit/capitolo 3/011 - Processi pesanti & leggeri.md",
+                "file": "200 TECNOLOGIE/07 protocollo HTTP & API/04 - HTTP 2 e HTTP 3 - Le Rivoluzioni Moderne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 011 - Processi pesanti & leggeri"
+              "title": "Backlinks for 04 - HTTP 2 e HTTP 3 - Le Rivoluzioni Moderne"
             }
           },
           {
@@ -127,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IP/006 - subnet your network.md",
+                "file": "400 WORK/milhos.tech/n8n/114 - Verifica e Finalizzazione Workflow SEO n8n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da 006 - subnet your network"
+              "title": "Outgoing links from 114 - Verifica e Finalizzazione Workflow SEO n8n"
             }
           },
           {
@@ -142,10 +151,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etichette"
+              "title": "Tags"
             }
           },
           {
@@ -154,8 +165,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -170,7 +181,8 @@
               "title": "Struttura di 006 - subnet your network"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,55 +202,55 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8df5070688f390b4",
+  "active": "eff1a0ff9a2b3905",
   "lastOpenFiles": [
-    "100 Scuola/06 Inglese/000 - tempi verbali.md",
-    "400 work/Etiql/110 - Miglioramenti e Nuovi Filtri per la Piattaforma Etiql.md",
-    "400 work/milhos.tech/metaBase/108 - Migrazione Dashboard Metabase a Nuovo Database.md",
-    "400 work/Etiql",
-    "Excalidraw/Drawing 2025-05-21 15.09.09.excalidraw.md",
-    "500 Youtube/000 - IT/reti neurali 1.md",
-    "100 Scuola/03 Sistemi/4th year/002 - unita' 3.md",
-    "100 Scuola/03 Sistemi/4th year/001 - unita' 2.md",
-    "500 Youtube/000 - IT/reti neurali.md",
-    "100 Scuola/02 Matematica/quarta/calcolo combinatorio 1.md",
-    "David Money Harris, Sarah L. Harris - Sistemi digitali e architettura dei calcolatori. Progettare con tecnologia ARM-Zanichelli (2017).pdf",
-    "Pasted Image 20250515232022_029.png",
-    "Pasted Image 20250515231419_903.png",
-    "Pasted Image 20250515231257_777.png",
-    "Drawing 2025-05-16 22.18.40.excalidraw.pdf",
-    "100 Scuola/02 Matematica/quarta/calcolo combinatorio.md",
-    "Excalidraw/Drawing 2025-05-15 22.26.12.excalidraw.md",
-    "500 Youtube/000 - IT/002 - Enkk - le Reti Neurali (Pt. 1).md",
-    "Pasted Image 20250518173703_395.png",
-    "Pasted Image 20250518172958_549.png",
-    "Pasted Image 20250516222908_160.png",
-    "Pasted Image 20250516222806_145.png",
-    "500 Youtube/000 - IT/001 - Salvatore Sanfilippo - CPU, bus, memoria e puntatori graph.md",
-    "400 work/milhos.tech/metaBase/109 - Migrazione Dashboard Metabase a Nuovo Database.md",
-    "500 Youtube/000 - IT/001 - Salvatore Sanfilippo - CPU, bus, memoria e puntatori.md",
-    "Pasted Image 20250515231618_353.png",
+    "400 WORK/milhos.tech/swissLachs/121 - Creazione Dashboard Metabase (Swiss Lachs – dati da Bexio).md",
+    "400 WORK/milhos.tech/swissLachs/120 - Creazione Pipeline N8N per Sincronizzazione Dati Bexio (Swiss Lachs).md",
+    "400 WORK/milhos.tech/valpicotta/118 - Mappatura e prototipo mobilità turistica Lago Maggiore.md",
+    "Excalidraw/Drawing 2025-08-29 22.42.17.excalidraw.md",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/Drawing 2025-08-26 02.00.05.excalidraw.md",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250826022311_152.png",
+    "700 ENGINE/cars/001 - componenti/001 - Fusibili per auto.md",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto",
+    "700 ENGINE/cars/002 - masse sospese e NON.md",
+    "100 SCUOLA/2025-6/03 - Matematica/compiti_vacanze.excalidraw.md",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250829162353_237.png",
+    "Untitled.md",
+    "100 SCUOLA/2025-6/03 - Matematica/compitiVacanze",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250826033100_489.png",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250826032515_393.png",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250826030656_351.png",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250826030435_009.png",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250827185629_761.png",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250827185619_878.png",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250827184950_652.png",
+    "700 ENGINE/cars/002 - Appunti funzionamento auto/imgs/Pasted Image 20250827184747_349.png",
+    "Excalidraw/Drawing 2025-08-26 18.02.23.excalidraw.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "200 TECNOLOGIE/05 linux/ubuntu/000 - Comandi.md",
+    "Excalidraw/Drawing 2025-07-28 23.45.26.excalidraw.md",
     "Excalidraw",
-    "000 Life/002 - books.md",
-    "500 Youtube/000 - IT",
-    "500 Youtube",
-    "100 Scuola/03 Sistemi/subnetting/001 - introduzione indirizzi IP.md",
-    "100 Scuola/03 Sistemi/subnetting/002 - Abbiamo finito le combinazioni.md",
-    "().md",
-    "100 Scuola/03 Sistemi/subnetting/005 - net mask & CIDR.md",
-    "100 Scuola/03 Sistemi/subnetting/004 - Binary to & from Decimal.md",
-    "100 Scuola/03 Sistemi/subnetting/003 - RFC 1918.md",
-    "000 Life/quotes/books.md",
-    "000 Life/quotes/blogs.md",
-    "000 Life/Pasted image 20250212205907.png",
-    "300 Book of knowledge/015 - Comandi Speciali Tricks.md",
-    "300 Book of knowledge/014 - comandi cmd.md",
-    "300 Book of knowledge/images/Pasted image 20241017170320.png",
-    "300 Book of knowledge/images",
-    "300 Book of knowledge/CMD/img",
-    "300 Book of knowledge/CMD",
-    "200 Tecnologie/04 dart/05 - states",
-    "100 Scuola/08 Storia/schemaStoria.canvas",
+    "600 PROJECTS/spotify/00 - spiegazione progeto.md",
+    "600 PROJECTS/3D-Visualizer/00 - Spiegazione progetto.md",
+    "600 PROJECTS/spotify",
+    "400 WORK/milhos.tech/angoloBimbo/119 - BUG capire perche' delle immagini non vengono visualizzate sul sito Shopify dell'Angolo del Bimbo.md",
+    "400 WORK/milhos.tech/metaBase/108 - Migrazione Dashboard Metabase a Nuovo Database.md",
+    "400 WORK/milhos.tech/metaBase/111 - Enhance B2B Analytics Dashboard with Contract Type Filter.md",
+    "400 WORK/milhos.tech/metaBase/109 - Migrazione Dashboard Metabase a Nuovo Database.md",
+    "400 WORK/milhos.tech/angoloBimbo/113 - n8n SEO shopify with LLM Vision.md",
+    "400 WORK/milhos.tech/swissLachs",
+    "400 WORK/milhos.tech/Unipharma/117 - Problema caricamento CSV da parte di Unipharma.md",
+    "400 WORK/milhos.tech/angoloBimbo/116 - Aggiornamento metadata + bug varianti colore.md",
+    "400 WORK/milhos.tech/angoloBimbo/114 - Verifica e Finalizzazione Workflow SEO n8n.md",
+    "400 WORK/milhos.tech/Unipharma/115 - Implementazione Upload Autonomo CSV + Upsert per UniPharma Dashboard.md",
+    "400 WORK/milhos.tech/valpicotta",
+    "400 WORK/milhos.tech/Etiql/110 - Miglioramenti e Nuovi Filtri per la Piattaforma Etiql.md",
+    "200 TECNOLOGIE/07 protocollo HTTP & API/05 - protocolli di strasporto.md",
+    "200 TECNOLOGIE/07 protocollo HTTP & API/02 - HTTP - Fondamenti e Primi Passi.md",
+    "400 WORK/milhos.tech/Unipharma",
+    "100 SCUOLA/2024-5/08 Storia/schemaStoria.canvas",
     "general/school/History/schemaStoria.canvas",
     "school/matematica/quarta/Untitled.canvas",
     "school/History/schemaStoria.canvas",
